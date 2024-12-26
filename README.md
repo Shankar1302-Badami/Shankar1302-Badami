@@ -45,4 +45,48 @@
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://www
+  <a href="https://www.verilog.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/374163/verilog.svg?style=flat-round&logoColor=white" alt="Verilog" width="40" height="40"/> 
+  </a>
+  <a href="https://systemverilog.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_systemverilog_icon_130431.png?style=flat-round&logoColor=white" alt="SystemVerilog" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a>
+  <a href="https://embeddedc.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/-Embedded%20C-00979D?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">🚀 About Me:</h3>
+<ul>
+  <li>🎓 Currently pursuing a Bachelor's degree in Electronics and Communication Engineering, graduating in 2025</li>
+  <li>🎯 Continuously exploring cutting-edge tools and technologies in VLSI Design, Signal Processing, and Communication related fields 💡</li>
+</ul>
+
+---
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQF8GMqSR7hkQg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719350520506?e=1731542400&v=beta&t=5y7715BUdDiX7a-1i1a7eaPWP7JEQQpwIitwpykCtZw" alt="Futuristic Banner" />
+</p>
+
+---
+
+💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/verilog-%23FF0000.svg?style=for-the-badge&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/systemverilog-%23FF6347.svg?style=for-the-badge&logo=systemverilog&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7200.svg?style=for-the-badge&logo=MATLAB&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded%20C-%23F8B400.svg?style=for-the-badge&logo=embedded-c&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shankar1302-Badami&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shankar1302-Badami&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar1302-Badami&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
