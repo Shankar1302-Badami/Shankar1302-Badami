@@ -46,10 +46,10 @@
 
 ### 🚀 About Me
 
-- 🎓 Final year B.E. student in Electronics and Communication Engineering
-- 🔁 Interested in Digital Design, RTL Coding, and Verification
-- 💡 Exploring VLSI, Signal Processing, and Communication Systems
-
+- 🎓 Electronics and Communication Engineering Graduate (2021–2025)
+- 💡 Passionate about Digital Design, Verilog/SystemVerilog, and Design verification
+- 🧠 Interested in RTL design, Design Verification and semiconductor technology
+- 📈 Always learning and building projects to grow as a future Design/Verification Engineer
 ---
 
 ### ⚙️ Tools I Use Often
