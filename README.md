@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=Digital+Electronics+Enthusiast;Verilog+%7C+SystemVerilog+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=Digital+Electronics+Enthusiast;Verilog+%7C+SystemVerilog+Learner;UVM+learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
