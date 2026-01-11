@@ -33,10 +33,7 @@
 ### 💻 Languages and Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" />
   <img src="https://img.icons8.com/?size=100&id=sd9l9kh1ceVY&format=png" width="40" title="Verilog" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_systemverilog_icon_130431.png" width="40" title="SystemVerilog" />
