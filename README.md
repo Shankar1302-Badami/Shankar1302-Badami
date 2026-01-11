@@ -30,7 +30,7 @@
 
 ---
 
-### 💻 Languages and Tools
+### 💻 Languages
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
@@ -53,6 +53,8 @@
 
 ![GVim](https://img.shields.io/badge/GVim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-073642?style=for-the-badge&logo=notion&logoColor=white)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-005F87?style=for-the-badge&logo=mentorgraphics&logoColor=white)
+![Synopsys VCS](https://img.shields.io/badge/Synopsys%20VCS-8A2BE2?style=for-the-badge&logo=synopsys&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
